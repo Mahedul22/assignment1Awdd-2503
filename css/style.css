@@ -15,7 +15,7 @@
        
     
 .banner {
-    background-image: url('../images/Banner.jpg'); /* Correct relative path */
+    background-image: url('images/Banner.jpg'); /* Correct relative path */
     background-size: cover;
     background-position: center;
     height: 200px; /* Adjust height as needed */
