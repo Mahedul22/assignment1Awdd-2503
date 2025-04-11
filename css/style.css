@@ -28,7 +28,6 @@
 }
 .banner h1 {
     font-size: 3rem; /* Adjust font size as needed */
-    /*font-family: "Halo Handletter";*/
     margin: 0;
     text-align: center;
     text-shadow: 2px 2px 4px #ffa; /* Optional: Simulates a border-like effect */
