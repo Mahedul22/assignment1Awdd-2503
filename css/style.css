@@ -15,7 +15,7 @@
        
     
 .banner {
-    background-image: url('../images/Banner.webp'); /* Correct relative path */
+    background-image: url('assignment1Awdd-2503/images/Banner.webp'); /* Correct relative path */
     background-size: cover;
     background-position: center;
     height: 200px; /* Adjust height as needed */
