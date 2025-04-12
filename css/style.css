@@ -23,7 +23,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #ffa;
+   /*color: #ffa;*/
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 .banner h1 {
