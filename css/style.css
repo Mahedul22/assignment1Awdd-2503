@@ -39,7 +39,7 @@
     object-fit: cover; /* Ensures the image fits within the dimensions without distortion */
     border-radius: 10px; /* Optional: Adds rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow effect */
-    padding : 10px;
+    padding: 10px 10px 10px;
 }
 
 .row img:hover {
